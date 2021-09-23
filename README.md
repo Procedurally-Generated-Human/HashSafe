@@ -1,14 +1,3 @@
-
-
-##     ##    ###     ######  ##     ##  ######     ###    ######## ########   
-##     ##   ## ##   ##    ## ##     ## ##    ##   ## ##   ##       ##       
-##     ##  ##   ##  ##       ##     ## ##        ##   ##  ##       ##       
-######### ##     ##  ######  #########  ######  ##     ## ######   ######   
-##     ## #########       ## ##     ##       ## ######### ##       ##       
-##     ## ##     ## ##    ## ##     ## ##    ## ##     ## ##       ##       
-##     ## ##     ##  ######  ##     ##  ######  ##     ## ##       ########  
-			Never Lose a Password Again  
-
 Technical details:
 	When entering your master password for the first time, HashSafe hashes it
 	with a randonomly generated salt using bcrypt (your plain text master password is
