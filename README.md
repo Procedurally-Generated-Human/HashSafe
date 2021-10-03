@@ -1,3 +1,5 @@
+![alt text](https://github.com/Procedurally-Generated-Human/HashSafe/blob/main/Screen%20Shot%202021-10-03%20at%2010.41.31%20AM.png)
+
 Technical details:
 	When entering your master password for the first time, HashSafe hashes it
 	with a randonomly generated salt using bcrypt (your plain text master password is
