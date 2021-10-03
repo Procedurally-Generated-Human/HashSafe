@@ -1,5 +1,7 @@
 ![alt text](https://github.com/Procedurally-Generated-Human/HashSafe/blob/main/Screen%20Shot%202021-10-03%20at%2010.41.31%20AM.png)
 
+HashSafe is a terminal based Python program that stores your passwords by encrypting them with the hashed version of your master password.
+
 Technical details:
 	When entering your master password for the first time, HashSafe hashes it
 	with a randonomly generated salt using bcrypt (your plain text master password is
