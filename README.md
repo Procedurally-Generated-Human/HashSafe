@@ -8,7 +8,7 @@ Technical details:
 	never stored), using the same master password it also genrates a key (using 100,000
 	iterations of Sha256) for encrypting and decrypting all of your account passwords
 	which are stored as encrypted bytes in the database.
-	The Key is also never saved and is only created when you enter you the master password.
+	The Key is also never saved and is only created when you enter your master password.
 	
 	
 	
